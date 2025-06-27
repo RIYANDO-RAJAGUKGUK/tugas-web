@@ -11,7 +11,7 @@ Dengan tampilan yang modern HomeVerse memberikan pengalaman layaknya tur rumah d
 3.Ifan Doli Siagian       - 221113114
 
 # URL APLIKASI LIVE
-
+https://riyando-rajagukguk.github.io/tugas-web/ --> maaf pak saya tidak tahu bagaimana ouput yang bener dari url live ini
 
 # PENJELASAN CLOUD TEKNOLOGI (FIREBASE)
 Firebase adalah platform Backend-as-a-Service (BaaS) dari Google yang menyediakan berbagai layanan cloud untuk membangun aplikasi web dan mobile. Dalam arsitektur aplikasi yang menggunakan Firebase, sebagian besar proses backend berjalan
