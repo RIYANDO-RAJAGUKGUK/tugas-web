@@ -13,6 +13,9 @@ Dengan tampilan yang modern HomeVerse memberikan pengalaman layaknya tur rumah d
 # URL APLIKASI LIVE
 https://riyando-rajagukguk.github.io/tugas-web/ --> maaf pak saya tidak tahu bagaimana ouput yang bener dari url live ini
 
+# URL VIDEO PRESENTASI MP4
+https://mikroskilacid-my.sharepoint.com/:v:/g/personal/221112489_students_mikroskil_ac_id/EfoZUI1ybLZKqWxG0yQkSicBCm6kobOdob45tdNl01qQzw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=vkeea9
+
 # PENJELASAN CLOUD TEKNOLOGI (FIREBASE)
 Firebase adalah platform Backend-as-a-Service (BaaS) dari Google yang menyediakan berbagai layanan cloud untuk membangun aplikasi web dan mobile. Dalam arsitektur aplikasi yang menggunakan Firebase, sebagian besar proses backend berjalan
 di cloud, sehingga tidak memerlukan server fisik atau VPS dari pengguna.
